@@ -6,8 +6,8 @@ Programa en Python para **cifrar y descifrar mensajes** usando el **Cifrado Cés
 
 1. Clona el repositorio:  
 ```bash
-git clone https://github.com/tu-usuario/cipher.git
-```
+[git clone https://github.com/tu-usuario/cipher.git
+](https://github.com/ZaikenGG/Cifrado-Cesar.git)```
 2. Instala la dependencia:
 ```bash
 pip install colorama
